@@ -1,4 +1,4 @@
-# Task-1-Spelling-Checker-Algorithm
+# SpellChecker-Dictionary-Checker-Algorithm
 The SpellChecker project is a Python-based spell-checking utility that allows users to verify the correctness of words against a given dictionary and provides suggestions for similar words if a given word is misspelled or not found in the dictionary.
 ## Usage Guide:
 1) Initializing SpellChecker: Create an instance of the SpellChecker class to use the spell-checking functionalities.
